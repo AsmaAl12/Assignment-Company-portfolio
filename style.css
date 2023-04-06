@@ -1,0 +1,420 @@
+body {
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+
+#fnav {
+  height: 2.6rem;
+}
+
+.navbar .nav-link,
+.btn1 {
+  font-weight: 600;
+  font-size: 0.9375rem;
+}
+
+.span span {
+  font-weight: 600;
+  font-size: 0.9375rem;
+}
+
+#nave .nav-link {
+  font-size: 0.8375rem;
+  text-transform: capitalize;
+
+}
+
+#nave .navbar-toggler:focus {
+  outline: none;
+  border: unset;
+  box-shadow: none;
+}
+
+#nave .nav-item:hover {
+  text-decoration: 5px underline solid rgb(133, 184, 57);
+}
+
+.top-banner {
+  width: 100%;
+  background: url('../image/green-abstract-geometric-background-with-a-rectangular-pattern-suitable-for-website-design-posters-and-banners-vector.jpg') no-repeat center;
+  background-size: cover;
+  padding: 16.875rem 0 9.375rem;
+}
+
+#home {
+  background-color:  rgb(133, 184, 57);;
+}
+
+#text {
+  text-align: center;
+  justify-content: center;
+  top: 290px;
+  position: absolute;
+  left: 450px;
+
+}
+
+#text h1 {
+  color: whitesmoke;
+  text-align: center;
+  /* font-weight: bolder; */
+  padding: auto;
+  font-size: 3.5rem;
+  font-weight: 900;
+}
+
+#text p {
+  color: white;
+  text-align: center;
+  padding: auto;
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.btn2 {
+  padding: 10px 14px;
+}
+
+#advantages h1 {
+  font-weight: 900;
+  text-align: center;
+  color: black;
+  justify-content: center;
+  padding-top: 9px;
+}
+
+h1 span {
+  color: rgb(133, 184, 57);
+}
+
+.container p {
+  font-weight: 700;
+  text-align: center;
+  justify-content: center;
+  padding-top: 9px;
+}
+
+.card {
+  border: none;
+}
+
+.card img {
+  justify-content: center;
+
+  border-radius: 60px;
+  background-color: rgb(224, 213, 213);
+  margin: 10px 100px;
+  height: 50px;
+  width: 50px;
+  display: flex;
+  flex-direction: column;
+}
+
+.cards {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  border: none;
+}
+
+.card-body h5 {
+  font-size: 0.91rem;
+}
+
+.card-body p {
+  font-size: 0.5rem;
+}
+
+#about {
+  width: 100%;
+}
+
+.about h1 {
+  padding: auto;
+  color: black;
+  text-align: center;
+  font-weight: 900;
+  font-size: 70px;
+}
+
+.us {
+  color: rgb(133, 184, 57);
+}
+
+.about1 {
+  width: 600px;
+  font-size: 0.9rem;
+  margin: 5px;
+  color: black;
+  flex: left;
+  float: left;
+  padding-left: 22px;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.image22 {
+  float: right;
+  padding-top: 35px;
+  padding-right: 22px;
+}
+
+.services {
+  text-align: center;
+  padding: auto;
+}
+
+.services h1 {
+  padding: auto;
+  color: black;
+  text-align: center;
+  font-weight: 900;
+  font-size: 70px;
+}
+
+.services span {
+  color: rgb(133, 184, 57);
+}
+
+.services p {
+  margin: 5px;
+  text-align: center;
+  color: black;
+  font-size: 20px;
+  font-weight: 700;
+  padding-bottom: 74px;
+}
+
+.crds2 {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  justify-content: center;
+
+
+}
+
+.crds2 .card {
+
+  justify-content: center;
+  margin: auto;
+  background-color: rgb(224, 213, 213);
+
+}
+
+.star {
+  width: 25px;
+  height: 25px;
+  border-radius: 80px;
+  background-color: orange;
+  position: relative;
+  margin: auto;
+}
+
+.protf {
+  text-align: center;
+  margin: 70px 30px;
+  padding: 0px 10px;
+}
+
+.protf h1 {
+  color: white;
+  font-weight: 900px;
+  font-size: 100px;
+  padding: 0px 0px;
+  margin-bottom: 22px;
+}
+
+.protf h1 span {
+  color: rgb(133, 184, 57);
+}
+
+.protf p {
+  color: white;
+  font-weight: 500;
+}
+
+.images {
+  justify-content: center;
+  padding: 10px 10px;
+}
+
+#body {
+  /* background-color: rgb(208, 204, 204); */
+  background-color: rgb(215, 223, 230);
+}
+
+.people h1 {
+  color: black;
+  text-align: center;
+  font-size: 50px;
+  font-weight: 900;
+}
+
+.people h1 span {
+  color: rgb(133, 184, 57);
+}
+
+#pg {
+  text-align: center;
+  font-size: 10px;
+}
+
+#abouti {
+  text-align: left;
+  display: flex;
+  flex-direction: row;
+}
+
+#aboutim {
+  text-align:left;
+  display: flex;
+  flex-direction: row;
+}
+.impo{
+  display: flex;
+  margin-top: 64px;
+  text-align:center;
+  margin-left: 350px;
+  margin-bottom: 32px;
+
+}
+.impo2{
+  display: flex;
+  margin-top: 64px;
+  text-align: center;
+  margin-left: 300px;
+  margin-bottom: 32px;
+}
+.impo3{
+  display: flex;
+  margin-top: 0px;
+  text-align: center;
+  margin-left: 350px;
+}
+.impo4{
+  display: flex;
+  margin-top: 0px;
+  text-align: center;
+  margin-left: 300px;
+}
+
+
+
+
+
+#skills {
+  background-color: white;
+  text-align: center;
+}
+
+.skills {
+  text-align: center;
+}
+
+.skills h1 {
+  width: 600px;
+  text-align: center;
+  font-size: 70px;
+  color: #000;
+  padding-left: 450px;
+}
+
+.skills span {
+  color: rgb(133, 184, 57);
+}
+
+.skills p {
+  font-size: 22px;
+  text-align: center;
+}
+
+.mg {
+  text-align: center;
+  display: flex;
+  padding-left: 200px;
+  padding-top: 100px;
+}
+
+.nav {
+  display: flex;
+  justify-content: center;
+}
+
+.nav-item a {
+  display: flex;
+  justify-content: center;
+}
+
+#projects {
+  background-color: rgb(133, 184, 57);
+}
+
+.project {
+  text-align: center;
+  margin: auto;
+  padding: 18px;
+}
+
+.project h1 {
+  color: white;
+  font-size: 52px;
+  font-weight: 900;
+}
+
+.paragraph3 {
+  padding-top: 24px;
+  padding-left: 70px;
+  padding-bottom: 24px;
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.forms {
+  margin-left: 450px;
+}
+
+.forms input {
+  text-align: center;
+  text-transform: capitalize;
+}
+.paragraph3{
+   text-align: center;
+}
+.
+
+
+.btn3 {
+  padding: 3px 14px;
+}
+
+.map {
+  margin: auto;
+  text-align: center;
+}
+
+#footer {
+  background-color: aqua;
+}
+
+.map h1 {
+  font-size: 44px;
+  color: #000;
+  font-weight: 600;
+}
+
+.map span {
+  color: rgb(133, 184, 57);
+}
+
+.map p {
+  padding-bottom: 22px;
+}
+
+.mapp img {
+  width: 50%;
+  text-align: center;
+  padding-left: 350px;
+  padding-bottom: 22px;
+}
